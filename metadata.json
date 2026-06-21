@@ -1,0 +1,6 @@
+{
+  "name": "Operations Triage Assistant",
+  "description": "An Operations Triage Assistant that analyzes bulk pasted log messages, classifies their urgency, drafts professional responses, and provides python code equivalents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
